@@ -140,3 +140,59 @@ button{
     margin-right: 500px;
 
 }
+
+.fifth{
+
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+    
+}
+
+.rec{
+    background-color:#3882F6;
+    padding: 30px;
+    border-radius: 10px;
+    display: flex;
+    gap: 60px;
+    padding-left: 200px ;
+    padding-right: 200px;
+}
+
+
+.f-con{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+     
+}
+
+
+.f-header{
+    color:white;
+    font-size: 20px;
+    font-weight: 900;
+    
+
+}
+
+.t-sub{
+    color:#e5e7eb;
+}
+
+
+.s-button{
+     border:3px solid white;
+     
+     padding-left: 20px;
+     padding-right: 30px;
+     background-color: #3882F6;
+     color: #F9FAF8;
+     border-radius: 8px;
+
+     text-align: center;
+     font-size: 15px;
+     
+}
