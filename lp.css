@@ -196,3 +196,17 @@ button{
      font-size: 15px;
      
 }
+
+
+.footer{
+      background:#1f2937;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding:50px;
+}    
+
+
+.last{
+    color:white;
+}
